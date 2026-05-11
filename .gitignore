@@ -33,3 +33,8 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Tool metadata
+.claude/
+scratch/
+prompts/
